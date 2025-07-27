@@ -28,5 +28,5 @@ RISC-V (Reduced Instruction Set Computer – V) is an open-source ISA that is de
 <img width="950" height="650" alt="image" src="https://github.com/user-attachments/assets/dd954608-16e7-4726-9996-1f14b6633756" />
 
 
-The basic implementation of the RISC-V subset, including the necessary multiplexors and control lines.
+The basic implementation of the RISC-V subset, including the necessary multiplexers and control lines.
 
